@@ -1,6 +1,6 @@
 # Portfolio Workshop
 
-Portfolio workshop run by Google Student Developer Club at the University of Auckland.
+Portfolio workshop at GDSC Imperial, forked from GDSC at the University of Auckland.
 
 ## 🚗 Install
 
