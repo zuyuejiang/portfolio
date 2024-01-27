@@ -82,10 +82,10 @@ Using [GitHub Actions](https://github.com/features/actions), we create an action
 | Portfolio | [etinaude.dev](https://etinaude.dev)    | [mattm.nz](https://mattm.nz/)                       | [echua.top](https://echua.top)        | [hiru.dev](https://hiru.dev/)         |
 | GitHub    | [etinaude](https://github.com/etinaude) | [DarkMatterMatt](https://github.com/DarkMatterMatt) | [luorixo](https://github.com/luorixo) | [HiruNya](https://github.com/HiruNya) |
 
-### GSDC
+### 👋 GSDC Socials
 
 | Link      | <img width="100px" src="./resources/gdsc%20logo.webp">         |
 | --------- | -------------------------------------------------------------- |
-| Discord   | [W6QtB3Sm2U](https://discord.gg/W6QtB3Sm2U)                    |
-| Instagram | [@gdsc.uoa](https://www.instagram.com/gdsc.uoa/)               |
-| Website   | [GSDC](https://gdsc.community.dev/the-university-of-auckland/) |
+| Instagram  | [@gdscimperial](https://www.instagram.com/gdscimperial/)                                                       |
+| LinkedIn   | [gdsc-imperial-college-london/](https://www.linkedin.com/company/gdsc-imperial-college-london/)                |
+| Linktree   | [gdscimperial](https://linktr.ee/gdscimperial)                                                                 |
